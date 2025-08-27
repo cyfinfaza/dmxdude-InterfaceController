@@ -1,0 +1,4 @@
+../Core/Src/dmx512.c:28:13:DMX512_RxFlush	16	static
+../Core/Src/dmx512.c:19:6:DMX512_Init	0	static
+../Core/Src/dmx512.c:41:5:DMX512_GetFrame	16	static
+../Core/Src/dmx512.c:50:6:DMX512_Loop	24	static

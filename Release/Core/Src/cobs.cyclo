@@ -1,0 +1,2 @@
+../Core/Src/cobs.c:39:20:cobs_encode	10
+../Core/Src/cobs.c:139:20:cobs_decode	12
